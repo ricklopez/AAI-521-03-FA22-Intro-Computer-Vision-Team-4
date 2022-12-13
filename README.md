@@ -2,6 +2,11 @@
 
 ## Computer Vision Model for Horse Detection in a Custom Dataset
 
+- [Colab Project](https://github.com/ricklopez/AAI-521-03-FA22-Intro-Computer-Vision-Team-4/blob/main/team_4_final_project.ipynb)
+- [Final Paper](https://github.com/ricklopez/AAI-521-03-FA22-Intro-Computer-Vision-Team-4/blob/main/Final-Project-Team-Four.pdf)
+- [Appendix: Model Architecture Visual](https://github.com/ricklopez/AAI-521-03-FA22-Intro-Computer-Vision-Team-4/blob/main/model_architecture%20.png)
+- [Appendix: Colab Notebook](https://colab.research.google.com/drive/17OB9e8smntgYPPQfbWd_inFfQHoZmSo7?usp=sharing)
+
 
 ## Project Summary
 
